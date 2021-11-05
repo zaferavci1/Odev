@@ -1,0 +1,14 @@
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\bin\Debug\netcoreapp3.1\cÖdev.exe
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\bin\Debug\netcoreapp3.1\cÖdev.deps.json
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\bin\Debug\netcoreapp3.1\cÖdev.runtimeconfig.json
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\bin\Debug\netcoreapp3.1\cÖdev.runtimeconfig.dev.json
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\bin\Debug\netcoreapp3.1\cÖdev.dll
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\bin\Debug\netcoreapp3.1\cÖdev.pdb
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\obj\Debug\netcoreapp3.1\cÖdev.csproj.AssemblyReference.cache
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\obj\Debug\netcoreapp3.1\cÖdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\obj\Debug\netcoreapp3.1\cÖdev.AssemblyInfoInputs.cache
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\obj\Debug\netcoreapp3.1\cÖdev.AssemblyInfo.cs
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\obj\Debug\netcoreapp3.1\cÖdev.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\obj\Debug\netcoreapp3.1\cÖdev.dll
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\obj\Debug\netcoreapp3.1\cÖdev.pdb
+C:\Users\ZAFER\source\repos\cÖdev\cÖdev\obj\Debug\netcoreapp3.1\cÖdev.genruntimeconfig.cache
